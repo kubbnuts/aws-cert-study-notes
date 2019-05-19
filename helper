@@ -13,5 +13,8 @@
 ==iSCSI
  = SCSI over TCP/IP
  
+ ==S3 website hosting
+ - e.g. http://staticwebsite-kubbs.s3-website.eu-west-2.amazonaws.com/
+ 
 ==revist list
 - cached volumes
