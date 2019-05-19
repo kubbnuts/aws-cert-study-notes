@@ -1,5 +1,7 @@
 86400 - 1 hour expressed in seconds
 
+== S3 ==
+- per account limit = 100
 
 == S3 availability & durability options ==
 - S3 standard
