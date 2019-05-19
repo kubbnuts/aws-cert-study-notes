@@ -1,1 +1,9 @@
 86400 - 1 hour expressed in seconds
+
+
+== S3 security &encryption ==
+- in transit - SSL/TLS
+- at rest:
+  - S3 Managed Keys (SSE-S3)
+  - AWS Managed Keys (SSE-KMS)
+  - customer managed keys (SSE-C)
