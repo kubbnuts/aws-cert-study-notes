@@ -4,6 +4,6 @@
 == S3 security &encryption ==
 - in transit - SSL/TLS
 - at rest:
-  - S3 Managed Keys (SSE-S3)
-  - AWS Managed Keys (SSE-KMS)
+  - S3 Managed Keys (SSE-S3) - buckets individually encrypted, AWS hold the master key
+  - AWS Managed Keys (SSE-KMS) - buckets individually encrypted, separate envelope key held in KMS.  KMS provides audit trail.
   - customer managed keys (SSE-C)
