@@ -1,6 +1,12 @@
 86400 - 1 hour expressed in seconds
 
 
+== S3 availability & durability options ==
+- S3 standard
+- S3 Infrequent Access (retrieval fee)
+- S3 Infrequent access - One Zone
+- not an option - RRS (Reduced Redundancy Storage) - deprecated
+
 == S3 security &encryption ==
 - in transit - SSL/TLS
 - at rest:
