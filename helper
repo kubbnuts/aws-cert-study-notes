@@ -2,6 +2,7 @@
 
 == S3 ==
 - per account limit = 100
+- max upload size (single upload) = 5GB.  multipart upload API available as an alternative
 
 == S3 availability & durability options ==
 - S3 standard
